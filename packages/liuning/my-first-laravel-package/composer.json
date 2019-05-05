@@ -1,0 +1,11 @@
+{
+    "name": "liuning/my-first-laravel-package",
+    "description": "liuning's first laravel package",
+    "authors": [
+        {
+            "name": "liuning",
+            "email": "441380237@qq.com"
+        }
+    ],
+    "require": {}
+}
